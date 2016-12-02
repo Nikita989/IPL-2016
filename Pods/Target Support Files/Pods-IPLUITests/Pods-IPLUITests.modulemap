@@ -1,0 +1,6 @@
+framework module Pods_IPLUITests {
+  umbrella header "Pods-IPLUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11542" systemVersion="15G31" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="TeamInfoImages" representedClassName="TeamInfoImages" syncable="YES" codeGenerationType="class">
+        <attribute name="background" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="captain" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="ground" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <entity name="TeamLogo" representedClassName="TeamLogo" syncable="YES" codeGenerationType="class">
+        <attribute name="logo" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="TeamLogo" positionX="-63" positionY="-18" width="128" height="60"/>
+        <element name="TeamInfoImages" positionX="-54" positionY="0" width="128" height="90"/>
+    </elements>
+</model>
